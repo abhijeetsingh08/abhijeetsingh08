@@ -1,5 +1,7 @@
-# 💫 About Me:
-Currently working on developing PHP based application like warehouse management system, Transport managemnet system, Also working on opesource magento and Working on API in coideignitor. intergrating 3rd party api into WMS and TMS <br>
+# 💫 About Me: I am a PHP Developer with experience in building and maintaining web applications, including Warehouse Management Systems (WMS) and Transport Management Systems (TMS). I have hands-on experience working with PHP frameworks such as CodeIgniter and have developed and integrated REST APIs, including third-party API integrations for WMS and TMS solutions.
+
+I have also worked extensively with the open-source Magento platform, customizing features, developing modules, and supporting eCommerce solutions. My expertise includes backend development, database design, API integration, and building scalable, efficient, and maintainable applications.
+<br>
 
 
 ## 🌐 Socials:
